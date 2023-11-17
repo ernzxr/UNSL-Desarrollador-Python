@@ -1,0 +1,2 @@
+Ejercicio 12: Escriba un programa que invierta el orden y a su vez las
+palabras de un archivo de texto

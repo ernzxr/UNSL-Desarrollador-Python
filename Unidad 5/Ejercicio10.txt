@@ -1,0 +1,2 @@
+archivo de texto.
+Escriba un programa que invierta el orden de las líneas de un

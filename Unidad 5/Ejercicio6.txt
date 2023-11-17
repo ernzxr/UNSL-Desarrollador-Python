@@ -1,0 +1,5 @@
+Ejercicio 6: Escriba un programa que permita que el usuario ingrese el nombre de un archivo.
+Luego el programa debe leer el archivo y contabilizar
+para cada palabra que aparece en el archivo la cantidad de veces que
+la misma se repite. Luego el programa debe imprimir por pantalla las
+cinco palabras que más se repitieron en el archivo.

@@ -1,5 +1,0 @@
-08/03/95,Ernesto Riveiro,Programacion,Analia Zaldua,3,A,10
-02/03/23,Lucas Caporaletti,Programacion,Nina Lin,2,C,-1
-01/03/23,Lautaro Balletti,Laboratorio,Mario Beron,1,A,-1
-03/04/23,Facundo Chena Gil,Ingles,Carolina Coscia,2,B,4
-31/08/23,Alan Leiva,Programacion,Analia Zaldua,3,A,-1

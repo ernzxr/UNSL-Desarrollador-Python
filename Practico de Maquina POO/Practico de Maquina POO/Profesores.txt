@@ -1,4 +1,0 @@
-Analia Zaldua,Programacion,3,A
-Mario Beron,Laboratorio,1,A
-Carolina Coscia,Ingles,2,B
-Nina Lin,Programacion,2,C
